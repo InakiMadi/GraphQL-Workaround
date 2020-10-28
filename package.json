@@ -1,0 +1,17 @@
+{
+  "name": "GraphQL-Workaround",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "graphql-yoga": "^1.18.3",
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
